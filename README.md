@@ -1,102 +1,166 @@
-# 👋 Hi, I'm Nishan Ahammad
-
 <div align="center">
 
-### 🛡️ Cybersecurity Student • Ethical Hacking Enthusiast • Linux User
+#  Hi, I'm Nishan Ahammad
 
-*"Learning, Building, and Securing the Digital World."*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Founder+of+Zara+Labs;Developing+Zara+OS;Cybersecurity+Student;Linux+Enthusiast;Ethical+Hacking+Learner;Building+the+Future" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=nishanahammadkuruvadangal-hub&label=Visitors&style=for-the-badge&color=00C853"/>
+  <img src="https://img.shields.io/github/followers/nishanahammadkuruvadangal-hub?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-blue?style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Studying **Advance Diploma in Information Security (ADIS)**
-- 🔐 Passionate about **Cybersecurity** and **Ethical Hacking**
-- 🐧 Linux enthusiast (Ubuntu, Debian & Kali Linux)
-- 🌐 Interested in Web Application Security and Networking
-- 💻 Always learning new technologies and security techniques
-- 🤖 Exploring IoT projects with ESP32 and embedded systems
+```yaml
+Name: Nishan Ahammad
+
+Role:
+  - Founder @ Zara Labs
+  - Developer @ Zara OS
+
+Education:
+  - Advance Diploma in Information Security (ADIS)
+
+Focus:
+  - Operating System Development
+  - Cybersecurity
+  - Linux
+  - Web Security
+  - Embedded Systems
+  - Artificial Intelligence
+
+Mission:
+  Build secure, intelligent and innovative technologies that empower everyone.
+```
 
 ---
 
-## 🛠️ Tech Stack
+# 🏢 Zara Labs
+
+> **Zara Labs** is my independent technology initiative focused on creating innovative software, cybersecurity tools, operating systems, AI-powered applications, and open-source projects.
+
+### Vision
+
+- 🛡️ Security First
+- 🤖 AI Powered
+- 🐧 Linux Friendly
+- 🌍 Open Innovation
+
+---
+
+# 💻 Zara OS
+
+**Zara OS** is my operating system project.
+
+### Current Goals
+
+- ⚡ Fast and lightweight
+- 🔒 Security-focused architecture
+- 🤖 AI integration
+- 💼 Modern desktop experience
+- 🛠️ Developer friendly
+- 🌐 Open-source ecosystem
+
+---
+
+# 🛠️ Technologies
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,html,css,bash,nodejs" />
+</p>
 
-### Tools & Technologies
+### Platforms
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,docker,git,github,vscode" />
+</p>
 
 ---
 
-## 🔒 Areas of Interest
+# 🔐 Cybersecurity
 
-- Ethical Hacking
-- Penetration Testing
 - Web Application Security
+- Penetration Testing
+- Linux Security
 - Network Security
-- Linux Administration
-- Open Source
-- IoT Development
-- Cloud Security
-
----
-
-## 📚 Currently Learning
-
-- OWASP Top 10
-- Active Directory Security
-- Malware Analysis
+- Vulnerability Assessment
+- Ethical Hacking
 - Digital Forensics
-- Advanced Linux
-- Cloud Security
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Current Projects
 
-- 🔐 Vulnerable Web Applications
-- 🛒 Security Testing Labs
-- 🤖 ESP32 IoT Projects
-- 🐧 Linux Customization
-- 🌐 Networking Labs
-
----
-
-## 📊 GitHub Stats
-
-![Nishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishanahammadkuruvadangal-hub&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanahammadkuruvadangal-hub&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nishanahammadkuruvadangal-hub&theme=tokyonight&hide_border=true)
+- 🖥️ Zara OS
+- 🏢 Zara Labs
+- 🤖 AI Assistant
+- 🔐 Cybersecurity Labs
+- 🌐 Secure Web Applications
+- 📡 ESP32 & IoT Projects
 
 ---
 
-## 📫 Contact
+# 📊 GitHub Statistics
 
-- 📧 **Email:** nishanahammadkuruvadangal@gmail.com
-- 💻 **GitHub:** https://github.com/nishanahammadkuruvadangal-hub
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nishanahammadkuruvadangal-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanahammadkuruvadangal-hub&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=nishanahammadkuruvadangal-hub&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nishanahammadkuruvadangal-hub&theme=tokyonight&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanahammadkuruvadangal-hub&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Contact
+
+📧 **Email**
+
+nishanahammadkuruvadangal@gmail.com
+
+🐙 **GitHub**
+
+https://github.com/nishanahammadkuruvadangal-hub
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## 💡 "Building Secure Technology for Tomorrow."
 
-If you like my projects, consider giving them a ⭐ and following my GitHub journey.
+⭐ Thanks for visiting my profile!
 
 </div>
