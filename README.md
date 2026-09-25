@@ -2,7 +2,7 @@
 
 #  Hi, I'm Nishan Ahammad
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Founder+of+Zara+Labs;Developing+Zara+OS;Cybersecurity+researcher;Linux+Enthusiast;Ethical+Hacker;Building+the+Future" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Cybersecurity+researcher;Linux+Enthusiast;Ethical+Hacker;Founder+of+Zara+Labs;Building+the+Future" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=nishanahammadkuruvadangal-hub&label=Visitors&style=for-the-badge&color=00C853"/>
