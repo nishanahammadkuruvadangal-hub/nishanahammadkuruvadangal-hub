@@ -20,8 +20,9 @@
 Name: Nishan Ahammad
 
 Role:
+  - Cybersecurity researche
+  - Ethical Hacker
   - Founder @ Zara Labs
-  - Developer @ Zara OS
 
 Education:
   - Advance Diploma in Information Security (ADIS)
