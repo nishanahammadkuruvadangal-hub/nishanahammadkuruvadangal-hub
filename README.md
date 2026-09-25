@@ -20,7 +20,7 @@
 Name: Nishan Ahammad
 
 Role:
-  - Cybersecurity researche
+  - Cybersecurity researcher
   - Ethical Hacker
   - Founder @ Zara Labs
 
